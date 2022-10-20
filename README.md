@@ -1,3 +1,22 @@
+Kanban Project
+
+Description: After creating a user in the project and logging in, the personal board is created first. Members can be added to the board, their names can be changed, they can be deleted. After entering the board, the list creation screen appears. The names of the lists can be changed, additions and deletions can be made, and cards can be added to them. The names of the cards can also be changed, adding and deleting operations can be done. Additions can be made to cards using a modal. These are duedate, label, Checklist, checklistitem and comment. Cards are also set to swap between themselves within the fixed list using React Beautiful Dnd.
+
+Tools Used:
+React
+TypeScript
+React Router
+React Context
+Axios
+Styled components & Material Symbols
+React Beautiful Dnd
+
+Docker "http://localhost:81/"
+Backend Documentation: https://github.com/haandev/patika-kanban-api 
+
+![cc](https://user-images.githubusercontent.com/77745630/197051049-f6d534dc-6a72-44c6-8845-eeabb3a54f52.jpg)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
