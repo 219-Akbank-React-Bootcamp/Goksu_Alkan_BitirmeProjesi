@@ -1,6 +1,6 @@
 Kanban Project
 
-Description: After creating a user in the project and logging in, the personal board is created first. Members can be added to the board, their names can be changed, they can be deleted. After entering the board, the list creation screen appears. The names of the lists can be changed, additions and deletions can be made, and cards can be added to them. The names of the cards can also be changed, adding and deleting operations can be done. Additions can be made to cards using a modal. These are duedate, label, Checklist, checklistitem and comment. Cards are also set to swap between themselves within the fixed list using React Beautiful Dnd.
+Description: After creating a user in the project and logging in, the personal board is created first. The board's name can be changed and even be deleted completely. Also new members can be added to the board. After entering the board, the list creation screen appears. The names of the lists can be changed, additions and deletions can be made, and cards can be added to them. The names of the cards can also be changed, adding and deleting operations can be done. Additions can be made to cards using a modal. These are duedate, label, Checklist, checklistitem and comment. Cards are also set to swap between themselves within the fixed list using React Beautiful Dnd.
 
 Tools Used:
 React
