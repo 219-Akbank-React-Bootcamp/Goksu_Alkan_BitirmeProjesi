@@ -8,7 +8,7 @@ TypeScript
 React Router
 React Context
 Axios
-Styled components & Material Symbols
+Styled Components & Material Symbols
 React Beautiful Dnd
 
 Docker "http://localhost:81/"
